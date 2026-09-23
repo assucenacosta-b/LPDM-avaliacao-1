@@ -104,6 +104,7 @@ fun BusinessCard(modifier: Modifier = Modifier, mensagem: String, mensagemB: Str
                 imageVector = Icons.Default.Email,
                 contentDescription = null,
                 tint = Color(0xFF006D3B)
+
             )
             Spacer(modifier = Modifier.width(20.dp))
             Text(text = "assucenacostab@gmail.com")
